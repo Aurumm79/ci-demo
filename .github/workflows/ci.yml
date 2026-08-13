@@ -72,3 +72,5 @@ jobs:
           
           # 결과 출력
           echo "✅ Pushed: $IMAGE_URI:$SHORT_SHA"
+          
+          #test 실행
